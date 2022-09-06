@@ -1,2 +1,8 @@
 [workspace]
-members = ["common-bench", "tokio-bench", "uring-bench", "glommio-bench"]
+members = [
+    "common-bench",
+    "tokio-bench",
+    "uring-bench",
+    "glommio-bench",
+    "monoio-bench",
+]
